@@ -79,7 +79,7 @@ Financial research students
 
 AI/ML enthusiasts interested in time-series forecasting
 
-📫 Contact
+# 📫 Contact
 
 For collaboration or improvements:
 
